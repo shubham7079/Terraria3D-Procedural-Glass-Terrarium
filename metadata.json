@@ -1,0 +1,6 @@
+{
+  "name": "Terraria3D - Procedural Glass Terrarium",
+  "description": "Interactive 3D glass terrarium with procedural flora, dynamic day/night cycles, real-time weather systems, and synthesized ambient nature acoustics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
